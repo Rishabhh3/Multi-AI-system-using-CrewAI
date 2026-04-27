@@ -1,2 +1,6 @@
 crewai
 crewai_tools
+langchain_groq
+dotenv
+sentence-transformers
+litellm
